@@ -1,0 +1,8 @@
+Rule,Rows_removed
+Cancellation invoices,19494
+Non-positive quantity or price,6207
+Non-product codes,4793
+Missing Customer ID,234245
+Duplicate rows,26055
+TOTAL removed,290794
+Remaining rows,776577

@@ -1,0 +1,4 @@
+method,k,fit_seconds,peak_memory_MB_tracemalloc,stored_factors_MB,explained_variance,relative_reconstruction_error_estimate,hit_rate_at_10,ndcg_at_10,eligible_test_customers,component_1_interpretation
+Truncated SVD,50,0.161,4.89,1.832,,0.58405,0.2002,0.0336,1913,Primarily high-volume purchase patterns; verify with product loadings.
+PCA,50,0.781,4.51,1.832,0.65056,,0.2013,0.034,1913,"Strongest product loadings: 85099B, 85123A, 21212, 20725, 22423"
+Best-seller baseline,,,,,,,0.1929,,1913,Not applicable
