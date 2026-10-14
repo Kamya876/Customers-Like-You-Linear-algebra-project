@@ -91,4 +91,4 @@ python run_pipeline.py
 - Customer clustering is sensitive to representation and distance choices. Inspect cluster sizes and product summaries before making marketing decisions.
 
 ## Roles
-This is an individual submission; the student performs both Data Engineer and ML Engineer tasks. Replace or confirm the author name in the contribution log and reflection before submitting.
+This is an individual submission; 
